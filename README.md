@@ -73,4 +73,5 @@ python main.py
 
 ## 👨‍💻 Автор
 Иван
+
 inst: @chll_killer
